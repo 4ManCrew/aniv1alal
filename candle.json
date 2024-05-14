@@ -1,0 +1,17 @@
+{
+    "candle": {
+      "color": "#8B4513",
+      "width": "10px",
+      "height": "80px",
+      "borderRadius": "10px 10px 0 0",
+      "position": "absolute",
+      "bottom": "-70px",
+      "left": "200px",
+      "animation": {
+        "name": "fire",
+        "duration": "2s",
+        "timingFunction": "linear",
+        "iterationCount": "infinite"
+      }
+    }
+  }
